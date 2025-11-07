@@ -1,0 +1,14 @@
+{
+  "extraction_date": "2025-11-06T16:44:24.950420",
+  "total_segments": 1,
+  "total_contacts": 4970,
+  "total_requests": 51,
+  "elapsed_seconds": 228.04627513885498,
+  "files": [
+    {
+      "filename_complete": "apollo_20251106_164036.csv",
+      "filename_cleaned": "apollo_20251106_164036_cleaned.csv",
+      "count": 4970
+    }
+  ]
+}
